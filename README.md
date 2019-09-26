@@ -6,3 +6,5 @@
 13.207
 pyramix Duo times
 +3,4,6 div 3
+
+my average is 13.452
